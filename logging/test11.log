@@ -1,0 +1,16 @@
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:this is my addition function : 
+INFO:root:this is my addition function : 
+INFO:root:1
+INFO:root:this is my addition function : 
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:this is my first code for log
+INFO:logger1.area1:this is info for logger one 
+INFO:logger2.area2:this is info for logger two 
+INFO:root:this is my first code for log
+INFO:logger1.area1:this is info for logger one 
+INFO:logger2.area2:this is info for logger two 

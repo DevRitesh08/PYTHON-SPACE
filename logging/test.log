@@ -1,0 +1,34 @@
+2025-06-27 18:06:59,588 i am going to start my program 
+2025-06-27 18:07:00,113 my first warning of program 
+2025-06-27 18:07:00,606 aah this is my first error of program
+2025-06-27 18:15:18,634 Error as occured 
+2025-06-27 18:15:18,634 division by zero
+Traceback (most recent call last):
+  File "C:\Users\RITESH\AppData\Local\Temp\ipykernel_18444\97674614.py", line 4, in test
+    div = a / b
+          ~~^~~
+ZeroDivisionError: division by zero
+2025-06-27 18:18:05,384 340
+2025-06-27 18:18:05,384 Error as occured 
+2025-06-27 18:18:05,384 division by zero
+Traceback (most recent call last):
+  File "C:\Users\RITESH\AppData\Local\Temp\ipykernel_18444\3950754728.py", line 5, in test
+    div = a / b
+          ~~^~~
+ZeroDivisionError: division by zero
+2025-06-27 18:29:43,538 his is the start of the function
+2025-06-27 18:30:11,802 his is the start of the function
+2025-06-27 18:30:41,014 this is the start of the function
+2025-06-27 18:30:41,420 this is the start of the function
+2025-06-27 18:32:14,880 this is the start of the function
+2025-06-27 18:37:10,165 this is my info log
+2025-06-27 18:37:10,165 this is my warning log
+2025-06-27 18:37:10,165 this is my error log
+2025-06-27 18:37:10,165 this is my exception log
+NoneType: None
+2025-06-27 18:38:12,499 this is my info log
+2025-06-27 18:38:12,504 this is my warning log
+2025-06-27 18:38:12,504 this is my error log
+2025-06-27 18:38:12,505 this is my exception log
+NoneType: None
+2025-06-27 18:38:12,505 this is my critical log

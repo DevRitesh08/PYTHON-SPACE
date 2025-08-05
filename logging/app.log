@@ -1,0 +1,25 @@
+2025-06-28 09:59:31,042 INFO this is my first code for log
+2025-06-28 09:59:31,284 INFO Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-28 09:59:31,284 INFO NumExpr defaulting to 8 threads.
+2025-06-28 09:59:31,523 INFO this is info for logger one 
+2025-06-28 09:59:31,527 DEBUG this is debug for logger two 
+2025-06-28 09:59:31,527 INFO this is info for logger two 
+2025-06-28 09:59:53,202 INFO this is my first code for log
+2025-06-28 09:59:53,587 INFO Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-28 09:59:53,587 INFO NumExpr defaulting to 8 threads.
+2025-06-28 09:59:54,124 INFO this is info for logger one 
+2025-06-28 09:59:54,125 DEBUG this is debug for logger two 
+2025-06-28 09:59:54,126 INFO this is info for logger two 
+2025-06-28 10:00:18,465 INFO this is my first code for log
+2025-06-28 10:00:19,015 INFO this is info for logger one 
+2025-06-28 10:00:19,017 DEBUG this is debug for logger two 
+2025-06-28 10:00:19,017 INFO this is info for logger two 
+2025-06-28 10:01:24,072 INFO this is my addition function : 
+2025-06-28 10:01:24,075 INFO 1
+2025-06-28 10:01:24,076 INFO 2
+2025-06-28 10:01:24,078 INFO 3
+2025-06-28 10:01:24,079 INFO 4
+2025-06-28 10:01:26,712 INFO this is my first code for log
+2025-06-28 10:01:28,184 INFO this is info for logger one 
+2025-06-28 10:01:28,186 DEBUG this is debug for logger two 
+2025-06-28 10:01:28,187 INFO this is info for logger two 

@@ -1,0 +1,9 @@
+2025-06-28 10:31:27,586 INFO this is my first code for log
+2025-06-28 10:31:27,919 INFO Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-06-28 10:31:27,919 INFO NumExpr defaulting to 8 threads.
+2025-06-28 10:31:29,343 INFO this is info for logger one 
+2025-06-28 10:31:29,346 DEBUG this is debug for logger two 
+2025-06-28 10:31:29,347 INFO this is info for logger two 
+2025-06-28 10:31:30,037 INFO main log
+2025-06-28 10:31:30,039 INFO this is from user1 info
+2025-06-28 10:31:30,040 DEBUG This is from user2 debug
